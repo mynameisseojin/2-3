@@ -74,6 +74,7 @@ Gemini API 키는 보안을 위해 소스 코드에 직접 작성하지 않고 �
 ```env
 GEMINI_API_KEY=발급받은_Gemini_API_키
 
+```
 
 ### 입력
 
@@ -83,3 +84,5 @@ GEMINI_API_KEY=발급받은_Gemini_API_키
 요리 장르: 한식
 조리 시간: 30분 이내
 추가 요청: 간단하고 맵지 않은 요리
+
+```
